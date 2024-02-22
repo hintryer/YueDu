@@ -4,6 +4,7 @@
 ## 温馨提示：
 > 注意！因为**精力有限**加上我现在基本上只看收藏的完本小说，所以 **`本项目书源较少，维护也不积极`**，因此**请勿过度依赖**本项目，想要更多书源的话可以去 [源仓库](https://www.yckceo.com/yuedu/shuyuan) 看看。
 [喵公子订阅源](http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
+[乌云净化](http://www.lanzoux.com/b0bw8jwoh)
 ****
 ## 书源地址：
 
