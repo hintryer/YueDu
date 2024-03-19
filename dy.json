@@ -1,0 +1,104 @@
+<body>
+  <meta charset="UTF-8"/>
+  <title>阅读书源
+  </title>
+              <h1>首页
+              </h1>
+ <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>源仓库书源
+              </h1>
+              <span><em>3月5日更新</em><em>1650个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709728721366/yck0305.json"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+ <span id="copyText1">这里是被复制的内容</span>
+ <input type="button" onClick="copy1()" value="点击复制"/>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>namofree的书源
+              </h1>
+              <span><em>通用</em><em>精简</em><em>适合大部分人</em><em>8月更新</em><em>51个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/namofree.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388d"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>一程的书源合集
+              </h1>
+              <span><em>通用</em><em>精简</em><em>2月15日更新</em><em>99个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json?ref=master&access_token=92edf695d430562349cbfac4009fda6ad36817dd"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>haxc的漫画源合集
+              </h1>
+              <span><em>8月更新</em><em>166个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/haxc/book/raw/bookSource.json?ref=master&access_token=92edf695d430562349cbfac4009fda6ad36817dd"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>漫画源合集①
+              </h1>
+              <span><em>8月更新</em><em>164个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/mh1.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>漫画源合集②
+              </h1>
+              <span><em>8月更新</em><em>204个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/mh2.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+          <div type="" about="" class="aui-flex b-line">
+            <div class="aui-flex-box">
+              <h1>关耳女频
+              </h1>
+              <span><em>女频</em><em>8月更新</em><em>86个</em></span>
+            </div>
+            <a href="yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/guaner.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388"><div class="aui-film-button">
+              <button>
+                一键导入
+              </button>
+              </div></a>
+          </div>
+ function copy1() {
+ var copy = document.getElementById("copyText1").innerText;
+ var oInput = document.createElement('input');
+ oInput.value = copy;
+document.body.appendChild(oInput);
+ oInput.select(); // 选择对象
+ document.execCommand("Copy"); // 执行浏览器复制命令
+ oInput.className = 'oInput';
+ oInput.style.display = 'none';
+ alert('复制成功');
+ }
+
