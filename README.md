@@ -16,13 +16,10 @@ _https://raw.scholar.rr.nu/hintryer/YueDu/main/shuyuan_
 
   _https://raw.kkgithub.com/hintryer/YueDu/main/shuyuan_
 
-  https://jsd.onmicrosoft.cn/gh/hintryer/YueDu/main/shuyuan （损坏）
   
-  _[https://github.moeyy.xyz/.../hintryer/YueDu/main/shuyuan](https://github.moeyy.xyz/https://raw.githubusercontent.com/hintryer/YueDu/main/shuyuan)_
+  _[https://github.moeyy.xyz/.../hintryer/YueDu/main/shuyuan](https://github.moeyy.xyz/https://raw.githubusercontent.com/hintryer/YueDu/main/shuyuan.json)  
 
-  _[https://ghproxy.cc/.../hintryer/YueDu/main/shuyuan](https://ghproxy.cc/https://raw.githubusercontent.com/hintryer/YueDu/main/shuyuan)_  （损坏）
-
-  _[https://mirror.ghproxy.com/.../hintryer/YueDu/main/shuyuan](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hintryer/YueDu/main/shuyuan)_  
+  _[https://mirror.ghproxy.com/.../hintryer/YueDu/main/shuyuan](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hintryer/YueDu/main/shuyuan.json)  
 
 
 
